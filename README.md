@@ -1,188 +1,132 @@
-# 🌟 Sayan Dutta - Next-Gen Developer Portfolio 🌟
+# 🌌 Sayan Dutta — Next-Gen Developer & AI Engineer
 
-<!-- DYNAMIC HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/header-banner.gif" alt="Sayan Dutta Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,255,209,0.3);"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=AI+%7C+Deep+Learning+%7C+Full-Stack;Building+Intelligent+Systems+for+the+Real+World;Code+with+Purpose.+Design+with+Intent." />
 </p>
 
-<!-- NEON TYPING ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00FFD1&width=800&height=80&lines=Hi+I'm+Sayan+Dutta;AI+%7C+ML+%7C+Web+Dev+Enthusiast;Crafting+Code+%F0%9F%92%A1+with+Creativity+%F0%9F%94%A8" alt="Typing Animation" />
-</h1>
-
-<!-- FLOATING PARTICLES DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/particles.gif" width="90%" height="40px"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=00FFD1&style=flat" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🚀 About Me
 
-🚀 **Domain**: `AI + Web + Real World Integration`  
-💉 **Focus**: `Deep Learning for Healthcare`  
-🧪 **Exploring**:  
-> 🧠 GenAI & LLMs  
-> 🧬 Quantum ML  
-> 🧠 Neural Interfaces  
+I’m a **final-year Computer Science student** focused on building **intelligent, scalable, and human-centric systems** at the intersection of **AI, Web, and real-world impact**.
 
-🛠 **Tech Stack**:
-- 🎨 Frontend: `React`, `Vite`, `Three.js`, `Tailwind`
-- ⚙️ Backend: `TensorFlow`, `PyTorch`, `Node.js`, `FastAPI`
-- 💾 Databases: `MongoDB`, `Neo4j`, `Supabase`
-- 🚢 DevOps: `Docker`, `Kubernetes`, `GitHub Actions`
+- 🚀 **Domain**: AI • Web • Real-World Systems  
+- 🧠 **Primary Focus**: Deep Learning for Healthcare  
+- 🔬 **Currently Exploring**:
+  - Generative AI & Large Language Models  
+  - Quantum Machine Learning  
+  - Neural & Human-Computer Interfaces  
 
-🎯 **Philosophy**: *“Build solutions that make atoms and bits dance together”*  
-🤝 **Collaboration**: Always open to **innovative project ideas**
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/holo-divider.png" width="90%"/>
-</div>
-
-## 💎 Featured Projects: Digital Masterpieces
-
-### 🔬 NeuroScan: Parkinson's Disease Diagnosis
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/parkinsons-holo.gif" width="80%" style="border: 3px solid #00FFD1; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,255,209,0.4);"/>
-</p>
-
-> **Revolutionizing neurological diagnostics** with CNN-LSTM hybrid models  
-> 🌐 **Real-time analysis** of gait patterns & vocal biomarkers  
-> 🧠 **Tech Stack**: TensorFlow • Librosa • Streamlit • Medical Imaging APIs  
-> ✨ **Unique Feature**: Adaptive learning from clinician feedback  
-> 🔗 [Explore the Future of Diagnostics](https://github.com/duttasayan835/Parkinsons-Diagnosis-AI)
+> *“I don’t just build software — I design systems that think, adapt, and matter.”*
 
 ---
 
-### 🌍 Aether: Smart Air Quality Ecosystem
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/aqi-hologram.gif" width="80%" style="border: 3px solid #FF00FF; border-radius: 15px; box-shadow: 0 10px 30px rgba(255,0,255,0.4);"/>
-</p>
+## 🛠️ Core Technology Stack
 
-> **Living air quality intelligence** with predictive analytics  
-> 🚀 **Features**: Pollution forecasting • Clean route optimization • Health impact modeling  
-> ⚡️ **Core Tech**: XGBoost • GeoSpark • React-Vis • IoT Integration  
-> 🌈 **Unique Aspect**: AR visualization of pollution hotspots  
-> 🔗 [Breathe the Future](https://github.com/duttasayan835/air-quality-index-analysis)
+**Frontend**
+- React • Vite • Tailwind CSS • Three.js  
 
----
+**Backend & AI**
+- Node.js • FastAPI  
+- TensorFlow • PyTorch  
 
-### ⚡ QuantumScraper: Alibaba RFQ Engine
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/scraper-holo.gif" width="80%" style="border: 3px solid #FFD700; border-radius: 15px; box-shadow: 0 10px 30px rgba(255,215,0,0.4);"/>
-</p>
+**Databases**
+- MongoDB • Neo4j • Supabase  
 
-> **Autonomous commerce intelligence** system  
-> 🤖 **Features**: Self-healing selectors • Dynamic throttling • NLP analysis  
-> 💡 **Tech Magic**: Selenium • BeautifulSoup • Scrapy • Proxy rotation  
-> 🧠 **AI Component**: Predictive RFQ trend forecasting  
-> 🔗 [Revolutionize Your Sourcing](https://github.com/duttasayan835/alibaba_web_scraping)
+**DevOps**
+- Docker • GitHub Actions • Kubernetes  
 
 ---
 
-### 🌌 Nebula: Immersive 3D Portfolio
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/portfolio-holo.gif" width="80%" style="border: 3px solid #9D00FF; border-radius: 15px; box-shadow: 0 10px 30px rgba(157,0,255,0.4);"/>
-</p>
+## 💎 Featured Projects
 
-> **Defying digital dimension boundaries**  
-> ✨ **Features**: VR-ready • Interactive tech constellations • Holographic projects  
-> 🛠️ **Tech Universe**: React-Three-Fiber • Tilt.js • GSAP • EmailJS  
-> 🌠 **Special Effect**: Voice-controlled navigation  
-> 🔗 [Enter the Experience](https://github.com/duttasayan835/Portfolio_Latest1_25-07-25)
+### 🧠 NeuroScan — Parkinson’s Disease Diagnosis
+**AI-powered neurological screening system**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/circuit-divider.gif" width="90%"/>
-</div>
+- CNN-LSTM hybrid models for early detection  
+- Multimodal analysis: gait + voice biomarkers  
+- Adaptive learning using clinician feedback  
 
-## 🔮 Tech Stack: My Digital Toolkit
+**Tech**: TensorFlow • Librosa • Streamlit  
+🔗 https://github.com/ObsyanX/Parkinsons-Diagnosis-AI
 
-### 💻 Development Ecosystem
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/tech-stack.gif" width="90%"/>
-</p>
+---
 
-### 🧪 Experimental Technologies
-```diff
-+ Currently mastering: Quantum Machine Learning frameworks
-! Experimenting with: Neural Radiance Fields (NeRF)
-# Researching: Blockchain-based AI model verification
-```
+### 🌍 Aether — Smart Air Quality Intelligence Platform
+**Predictive environmental health ecosystem**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/data-stream.gif" width="90%"/>
-</div>
+- Pollution forecasting & exposure modeling  
+- Clean-route optimization for urban mobility  
+- AR-based pollution hotspot visualization  
 
-## 📊 GitHub Odyssey: My Coding Journey
+**Tech**: XGBoost • GeoSpark • React • IoT  
+🔗 https://github.com/ObsyanX/air-quality-index-analysis
 
-<div align="center">
-  
-| Contribution Matrix | Language Spectrum |
-|---------------------|-------------------|
-| <img src="https://github-readme-activity-graph.cyclic.app/graph?username=duttasayan835&theme=react-dark&area=true&hide_border=true&custom_title=My+Development+Journey" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttasayan835&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%"> |
+---
 
-| Development Pulse | Contribution Streak |
-|-------------------|---------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=duttasayan835&show_icons=true&theme=react&rank_icon=github&hide=prs&hide_border=true&bg_color=0D1117" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttasayan835&theme=react&hide_border=true&background=0D1117" width="100%"> |
+### ⚙️ QuantumScraper — Intelligent RFQ Analytics Engine
+**Autonomous commerce intelligence system**
 
-</div>
+- Self-healing web extraction pipelines  
+- NLP-based RFQ trend prediction  
+- Dynamic throttling & proxy rotation  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/energy-wave.gif" width="90%"/>
-</div>
+**Tech**: Selenium • Scrapy • NLP  
+🔗 https://github.com/ObsyanX/alibaba_web_scraping
 
-## 🌐 Connect: Join My Digital Universe
+---
 
-<p align="center">
-  <a href="mailto:duttasayan947595@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Quantum_Mailbox-00FFD1?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/duttasayan835">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9D_LinkedIn-Neural_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/duttasayan835">
-    <img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-Code_Galaxy-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B0_Portfolio-Digital_Dimension-9D00FF?style=for-the-badge">
-  </a>
-</p>
+### 🌌 Nebula — Immersive 3D Portfolio
+**Experimental interactive developer portfolio**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/holo-grid.gif" width="90%"/>
-</div>
+- 3D & VR-ready experience  
+- Voice-controlled navigation  
+- Real-time interactive components  
 
-## 💫 Wisdom from the Digital Frontier
+**Tech**: React-Three-Fiber • GSAP • EmailJS  
+🔗 https://github.com/ObsyanX/Portfolio_Latest1_25-07-25
 
-> "We're not just writing code; we're composing **symphonies of logic** that dance at the intersection of human need and machine capability."  
-> *- Sayan Dutta, 2025*
+---
 
-> "The most elegant solutions emerge when we stop asking *'Can we build it?'* and start asking *'Should we build it?'*"  
-> *- Inspired by Asimov*
+## 🧪 Research & Experimental Work
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/quantum-divider.gif" width="90%"/>
-</div>
+- 🧠 **Currently studying**: Quantum Machine Learning frameworks  
+- 🧬 **Experimenting with**: Neural Radiance Fields (NeRF)  
+- 🔐 **Research interest**: Blockchain-based AI model verification  
 
-## 🚀 Collaboration: Launchpad for Innovation
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/collab-holo.gif" width="50%"/>
-</p>
+## 📊 GitHub Activity Snapshot
 
-<h3 align="center">Ready to build the future?</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsyanX&show_icons=true&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsyanX&layout=compact&theme=react&hide_border=true)
 
-<p align="center">
-  <a href="mailto:duttasayan947595@gmail.com">
-    <img src="https://img.shields.io/badge/Initiate_Project_Sequence-00FFD1?style=for-the-badge&logo=probot&logoColor=black">
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/footer-matrix.gif" width="70%" style="border-radius: 20px; box-shadow: 0 -10px 30px rgba(0,255,209,0.3);"/>
-</p>
+## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=duttasayan835&label=Digital+Footprints&color=00FFD1&style=flat" />
-</div>
+[![Email](https://img.shields.io/badge/Email-00FFD1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:duttasayan947595@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/duttasayan835)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ObsyanX)
+
+---
+
+## ✨ Philosophy
+
+> *“The most elegant systems are built when engineering discipline meets ethical intent.”*
+
+---
+
+## 🚀 Open to
+
+- Research collaborations  
+- AI / ML internships & roles  
+- High-impact open-source work  
+
+**Let’s build something meaningful.**
+
+---
