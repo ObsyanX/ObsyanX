@@ -1,5 +1,102 @@
 ![Banner](Banner.svg)
 
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      /* ===============================
+         🌑 DARK THEME (Default)
+         =============================== */
+      :root {
+        --bg: #000000;
+        --surface: #0D0D0D;
+        --text: #FFFFFF;
+        --accent: #FFBF00;
+        --border: #333333;
+        --edition-gold: #D18605;
+        --edition-purple: #8226D9;
+        --edition-blue: #0073E6;
+        --edition-green: #1B9865;
+      }
+
+      /* ===============================
+         ☀️ LIGHT THEME
+         =============================== */
+      @media (prefers-color-scheme: light) {
+        :root {
+          --bg: #F9F7F2;
+          --surface: #EBE9E4;
+          --text: #20242B;
+          --accent: #F9A006;
+          --border: #D1CFCA;
+          --edition-gold: #D18605;
+          --edition-purple: #8226D9;
+          --edition-blue: #0073E6;
+          --edition-green: #1B9865;
+        }
+      }
+
+      text {
+        font-family: Inter, Segoe UI, system-ui, sans-serif;
+      }
+    </style>
+
+    <!-- Accent gradient -->
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="var(--edition-gold)"/>
+      <stop offset="50%" stop-color="var(--accent)"/>
+      <stop offset="100%" stop-color="var(--edition-purple)"/>
+    </linearGradient>
+
+    <!-- Soft glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="var(--bg)" />
+
+  <!-- Card surface -->
+  <rect x="40" y="30" width="1120" height="180"
+        rx="18"
+        fill="var(--surface)"
+        stroke="var(--border)"
+        stroke-width="1"/>
+
+  <!-- Accent line -->
+  <rect x="40" y="190" width="1120" height="3"
+        fill="url(#accentGradient)"
+        filter="url(#glow)"/>
+
+  <!-- Name -->
+  <text x="80" y="105"
+        font-size="46"
+        font-weight="700"
+        fill="var(--text)">
+    Sayan Dutta
+  </text>
+
+  <!-- Role -->
+  <text x="80" y="145"
+        font-size="22"
+        fill="var(--edition-green)">
+    AI Engineer • Deep Learning • Full-Stack Developer
+  </text>
+
+  <!-- Tagline -->
+  <text x="80" y="175"
+        font-size="16"
+        fill="var(--edition-blue)">
+    Designing intelligent systems with clarity, ethics, and impact
+  </text>
+</svg>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=AI+%7C+Deep+Learning+%7C+Full-Stack;Building+Intelligent+Systems+for+the+Real+World;Code+with+Purpose.+Design+with+Intent." />
 </p>
