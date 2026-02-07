@@ -1,14 +1,9 @@
 ![Banner](Banner.svg)
 
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=AI+%7C+Deep+Learning+%7C+Full-Stack;Building+Intelligent+Systems+for+the+Real+World;Code+with+Purpose.+Design+with+Intent." />
-</p>
+<p align="center"><em>Building intelligent systems with clarity, ethics, and real-world impact.</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=00FFD1&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=FFBF00&style=flat" />
 </p>
 
 ---
