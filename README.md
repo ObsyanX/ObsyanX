@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ObsyanX/banner.svg)
+![Banner](https://raw.githubusercontent.com/ObsyanX/Banner.svg)
 
 
 
