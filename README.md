@@ -1,44 +1,105 @@
 ![Banner](Banner.svg)
-
 <p align="center"><em>Building intelligent systems with clarity, ethics, and real-world impact.</em></p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=FFBF00&style=flat" />
 </p>
 
----
+
+
+![About Accent](about-accent.svg)
 
 ## 👨‍🚀 About Me
 
 I’m a **final-year Computer Science student** focused on building **intelligent, scalable, and human-centric systems** at the intersection of **AI, Web, and real-world impact**.
 
-- 🚀 **Domain**: AI • Web • Real-World Systems  
-- 🧠 **Primary Focus**: Deep Learning for Healthcare  
-- 🔬 **Currently Exploring**:
+- **Domain**: AI • Web • Real-World Systems
+- **Primary Focus**: Deep Learning for Healthcare
+- **Currently Exploring**:
   - Generative AI & Large Language Models  
   - Quantum Machine Learning  
   - Neural & Human-Computer Interfaces  
+> *I don’t just build software — I design systems that think, adapt, and matter.*
 
-> *“I don’t just build software — I design systems that think, adapt, and matter.”*
+![Tech Stack Accent](about-accent.svg)
 
----
+<h2>🧰 Techy Stuff</h2>
 
-## 🛠️ Core Technology Stack
+<table align="center">
+  <tr>
+    <th>💻 Languages</th>
+    <th>🎨 Frontend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <th>⚙️ Backend & APIs</th>
+    <th>🧠 AI / ML</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <th>🗄 Databases</th>
+    <th>🚀 DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-**Frontend**
-- React • Vite • Tailwind CSS • Three.js  
+![Featured Projects](about-accent.svg)
 
-**Backend & AI**
-- Node.js • FastAPI  
-- TensorFlow • PyTorch  
+<h2>💎 Featured Projects</h2>
 
-**Databases**
-- MongoDB • Neo4j • Supabase  
+<table align="center" width="90%">
+  <tr>
+    <th align="left">🧠 NeuroScan</th>
+    <th align="left">🌍 Aether</th>
+  </tr>
 
-**DevOps**
-- Docker • GitHub Actions • Kubernetes  
+  <tr>
+    <td valign="top" width="50%">
+      <b>Parkinson’s Disease Diagnosis</b><br/><br/>
+      AI-powered neurological screening system.
+      <ul>
+        <li>CNN–LSTM hybrid for early detection</li>
+        <li>Gait + voice biomarker fusion</li>
+        <li>Adaptive clinician feedback loop</li>
+      </ul>
+      <b>Tech:</b> TensorFlow · Librosa · Streamlit<br/>
+      🔗 <a href="https://github.com/ObsyanX/Parkinsons-Diagnosis-AI">View Project</a>
+    </td>
 
----
+    <td valign="top" width="50%">
+      <b>Smart Air Quality Intelligence Platform</b><br/><br/>
+      Predictive environmental health ecosystem.
+      <ul>
+        <li>Pollution forecasting & exposure modeling</li>
+        <li>Clean-route optimization</li>
+        <li>AR pollution hotspot visualization</li>
+      </ul>
+      <b>Tech:</b> XGBoost · GeoSpark · React · IoT<br/>
+      🔗 <a href="https://github.com/ObsyanX/air-quality-index-analysis">View Project</a>
+    </td>
+  </tr>
+</table>
+
 
 ## 💎 Featured Projects
 
