@@ -1,0 +1,169 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .light { display: block; }
+    .dark { display: none; }
+
+    @media (prefers-color-scheme: dark) {
+      .light { display: none; }
+      .dark { display: block; }
+    }
+
+    text {
+      font-family: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
+    }
+
+    .title { font-weight: 600; font-size: 20px; }
+    .subtitle { font-weight: 500; font-size: 14px; }
+    .body { font-weight: 400; font-size: 14px; }
+    .tech { font-weight: 500; font-size: 13px; }
+  </style>
+
+  <!-- ================= LIGHT THEME ================= -->
+  <g class="light">
+    <rect width="1200" height="620" fill="#F9F7F2"/>
+
+    <rect x="40" y="40" rx="18" width="520" height="250" fill="#EBE9E4" stroke="#D1CFCA"/>
+    <text x="70" y="75" class="title" fill="#20242B">🧠 NeuroScan</text>
+    <text x="70" y="100" class="subtitle" fill="#20242B">Parkinsons Disease Diagnosis</text>
+    <text x="70" y="135" class="body" fill="#20242B">• CNN-LSTM hybrid early detection</text>
+    <text x="70" y="160" class="body" fill="#20242B">• Gait + voice biomarker fusion</text>
+    <text x="70" y="185" class="body" fill="#20242B">• Clinician feedback adaptation</text>
+    <text x="70" y="220" class="tech" fill="#D18605">
+      Tech: TensorFlow · Librosa · Streamlit
+    </text>
+
+    <rect x="640" y="40" rx="18" width="520" height="250" fill="#EBE9E4" stroke="#D1CFCA"/>
+    <text x="670" y="75" class="title" fill="#20242B">🌍 Aether</text>
+    <text x="670" y="100" class="subtitle" fill="#20242B">
+      Smart Air Quality Intelligence
+    </text>
+    <text x="670" y="135" class="body" fill="#20242B">
+      • Pollution forecasting &amp; exposure modeling
+    </text>
+    <text x="670" y="160" class="body" fill="#20242B">
+      • Clean-route urban optimization
+    </text>
+    <text x="670" y="185" class="body" fill="#20242B">
+      • AR hotspot visualization
+    </text>
+    <text x="670" y="220" class="tech" fill="#0073E6">
+      Tech: XGBoost · GeoSpark · React · IoT
+    </text>
+
+    <rect x="40" y="330" rx="18" width="520" height="250" fill="#EBE9E4" stroke="#D1CFCA"/>
+    <text x="70" y="365" class="title" fill="#20242B">⚙️ QuantumScraper</text>
+    <text x="70" y="390" class="subtitle" fill="#20242B">
+      Intelligent RFQ Analytics Engine
+    </text>
+    <text x="70" y="425" class="body" fill="#20242B">
+      • Self-healing scraping pipelines
+    </text>
+    <text x="70" y="450" class="body" fill="#20242B">
+      • NLP-based RFQ trend prediction
+    </text>
+    <text x="70" y="475" class="body" fill="#20242B">
+      • Dynamic throttling and proxies
+    </text>
+    <text x="70" y="510" class="tech" fill="#8226D9">
+      Tech: Selenium · Scrapy · NLP
+    </text>
+
+    <rect x="640" y="330" rx="18" width="520" height="250" fill="#EBE9E4" stroke="#D1CFCA"/>
+    <text x="670" y="365" class="title" fill="#20242B">🌌 Nebula</text>
+    <text x="670" y="390" class="subtitle" fill="#20242B">
+      Immersive 3D Portfolio
+    </text>
+    <text x="670" y="425" class="body" fill="#20242B">
+      • 3D and VR-ready experience
+    </text>
+    <text x="670" y="450" class="body" fill="#20242B">
+      • Voice-controlled navigation
+    </text>
+    <text x="670" y="475" class="body" fill="#20242B">
+      • Real-time interactivity
+    </text>
+    <text x="670" y="510" class="tech" fill="#1B9865">
+      Tech: R3F · GSAP · EmailJS
+    </text>
+  </g>
+
+  <!-- ================= DARK THEME ================= -->
+  <g class="dark">
+    <rect width="1200" height="620" fill="#000000"/>
+
+    <rect x="40" y="40" rx="18" width="520" height="250" fill="#0D0D0D" stroke="#333333"/>
+    <text x="70" y="75" class="title" fill="#FFFFFF">🧠 NeuroScan</text>
+    <text x="70" y="100" class="subtitle" fill="#FFFFFF">
+      Parkinsons Disease Diagnosis
+    </text>
+    <text x="70" y="135" class="body" fill="#E5E7EB">
+      • CNN-LSTM hybrid early detection
+    </text>
+    <text x="70" y="160" class="body" fill="#E5E7EB">
+      • Gait + voice biomarker fusion
+    </text>
+    <text x="70" y="185" class="body" fill="#E5E7EB">
+      • Clinician feedback adaptation
+    </text>
+    <text x="70" y="220" class="tech" fill="#FFBF00">
+      Tech: TensorFlow · Librosa · Streamlit
+    </text>
+
+    <rect x="640" y="40" rx="18" width="520" height="250" fill="#0D0D0D" stroke="#333333"/>
+    <text x="670" y="75" class="title" fill="#FFFFFF">🌍 Aether</text>
+    <text x="670" y="100" class="subtitle" fill="#FFFFFF">
+      Smart Air Quality Intelligence
+    </text>
+    <text x="670" y="135" class="body" fill="#E5E7EB">
+      • Pollution forecasting &amp; exposure modeling
+    </text>
+    <text x="670" y="160" class="body" fill="#E5E7EB">
+      • Clean-route urban optimization
+    </text>
+    <text x="670" y="185" class="body" fill="#E5E7EB">
+      • AR hotspot visualization
+    </text>
+    <text x="670" y="220" class="tech" fill="#FFBF00">
+      Tech: XGBoost · GeoSpark · React · IoT
+    </text>
+
+    <rect x="40" y="330" rx="18" width="520" height="250" fill="#0D0D0D" stroke="#333333"/>
+    <text x="70" y="365" class="title" fill="#FFFFFF">⚙️ QuantumScraper</text>
+    <text x="70" y="390" class="subtitle" fill="#FFFFFF">
+      Intelligent RFQ Analytics Engine
+    </text>
+    <text x="70" y="425" class="body" fill="#E5E7EB">
+      • Self-healing scraping pipelines
+    </text>
+    <text x="70" y="450" class="body" fill="#E5E7EB">
+      • NLP-based RFQ trend prediction
+    </text>
+    <text x="70" y="475" class="body" fill="#E5E7EB">
+      • Dynamic throttling and proxies
+    </text>
+    <text x="70" y="510" class="tech" fill="#FFBF00">
+      Tech: Selenium · Scrapy · NLP
+    </text>
+
+    <rect x="640" y="330" rx="18" width="520" height="250" fill="#0D0D0D" stroke="#333333"/>
+    <text x="670" y="365" class="title" fill="#FFFFFF">🌌 Nebula</text>
+    <text x="670" y="390" class="subtitle" fill="#FFFFFF">
+      Immersive 3D Portfolio
+    </text>
+    <text x="670" y="425" class="body" fill="#E5E7EB">
+      • 3D and VR-ready experience
+    </text>
+    <text x="670" y="450" class="body" fill="#E5E7EB">
+      • Voice-controlled navigation
+    </text>
+    <text x="670" y="475" class="body" fill="#E5E7EB">
+      • Real-time interactivity
+    </text>
+    <text x="670" y="510" class="tech" fill="#FFBF00">
+      Tech: R3F · GSAP · EmailJS
+    </text>
+  </g>
+
+</svg>
