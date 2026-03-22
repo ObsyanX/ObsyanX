@@ -43,13 +43,24 @@
 
 <div align="center">
 
-### ⚡ Philosophy Card
+### ⚡ Philosophy
+
+<br>
+<!-- Glass Card -->
+<div style="
+  backdrop-filter: blur(12px);
+  background: linear-gradient(135deg, rgba(0,245,255,0.12), rgba(255,110,199,0.12));
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 20px;
+  padding: 22px;
+  width: 80%;
+  max-width: 650px;
+">
 
 ```diff
-+ Build systems, not just projects
-# Think in terms of impact
-- Learn deeply, execute consistently
-![Tech Stack Accent](about-accent.svg)
++ Build systems, not just projects 🚀
+# Think in terms of impact 🌍
+- Learn deeply, execute consistently 🔥
 ```
 
 ![Techy Stuff](about-accent.svg)
