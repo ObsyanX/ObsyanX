@@ -1,4 +1,4 @@
-![Banner](Banner.svg)
+![video-project-1_vinmANkV](https://github.com/user-attachments/assets/7225f8bb-6290-4e00-a08c-7dd006b4defc)![Banner](Banner.svg)
 <p align="center"><em>Building intelligent systems with clarity, ethics, and real-world impact.</em></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=FFBF00&style=flat" />
@@ -158,7 +158,9 @@
   <tr>
     <td width="500" style="padding: 10px; border: none; vertical-align: top;">
       <div style="background: linear-gradient(135deg, #FFFDF7 0%, #F5EEDC 100%); border: 1px solid #E8DFC8; border-radius: 22px; padding: 20px; min-height: 360px;">
-        <img src="GIF_LINK_1" alt="GD Buddy" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
+        <img
+ src=![video-project-1_vinmANkV](https://github.com/user-attachments/assets/49e1ed5e-ea46-4f68-9919-8aa28f77ad44)
+"" alt="GD Buddy" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
         <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">⚡ GD Buddy</div>
         <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 15px;">AI-powered GD practice platform</div>
         <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 15px;">
