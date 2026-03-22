@@ -14,9 +14,6 @@
 
 <div align="center">
   
-### 🧩 Core Snapshot
-<div align="center">
-
 ## 🧩 Core Snapshot
 
 <table>
