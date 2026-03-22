@@ -170,18 +170,16 @@ engineering:
 learning:
   method: "Deep work + repetition + real-world application"
 ```
-
-```md id="thinkmermaid02"
 ```mermaid
-flowchart LR
-    A["🧩 Break"] --> B["🧠 Model"]
-    B --> C["⚡ Optimize"]
-    C --> D["🚀 Scale"]
+flowchart TD
+    A["🧩 Problem Solving<br/>Break → Model → Optimize → Scale"]
+    B["⚙️ Engineering<br/>Clarity > Complexity"]
+    C["📚 Learning<br/>Deep Work + Repetition + Real-world"]
 
-    E["⚙️ Clarity > Complexity"] --> D
-    F["📚 Deep Work Learning"] --> D
+    A --> D["🚀 Output: Scalable, Meaningful Systems"]
+    B --> D
+    C --> D
 ```
-
 
 ![Featured Projects](about-accent.svg)
 
