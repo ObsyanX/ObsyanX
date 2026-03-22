@@ -126,6 +126,13 @@
 
 ![Featured Projects](about-accent.svg)
 
+<h2>💎 Featured Projects</h2>
+
+![Featured Projects](featured-projects.svg)
+
+![Featured Projects](about-accent.svg)
+
+
 ## 🧪 Proof of Work
 
 ```mermaid
@@ -139,16 +146,7 @@ flowchart TD
     B --> D
     C --> D
 ```
-
-
 ![Featured Projects](about-accent.svg)
-
-<h2>💎 Featured Projects</h2>
-
-![Featured Projects](featured-projects.svg)
-
-![Featured Projects](about-accent.svg)
-
 
 ## 📊 GitHub Activity Snapshot
 
