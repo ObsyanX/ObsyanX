@@ -257,6 +257,4 @@ flowchart TD
 
 **Let’s build something meaningful.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ---
