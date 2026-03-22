@@ -11,22 +11,38 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Building+Real-World+Impact+Systems;Deep+Learning+for+Healthcare;Consistency+%2B+Execution+%3D+Growth+🚀" />
 </p>
 
-
 <div align="center">
-  
+
 ### 🧬 What Sets Me Apart
 
-- 🧠 I combine **AI + Systems Thinking**, not just model building  
-- ⚙️ I focus on **real-world deployment**, not only experiments  
-- 📈 I optimize for **long-term mastery (GATE + fundamentals)**  
-- 🌍 I build with **impact-first mindset (Healthcare AI)**  
+<table>
+<tr>
+<td align="left" width="300">
 
-> *I don’t chase trends. I build depth.*
+🧠 <b>AI + Systems Thinking</b>  
+⚙️ <b>Real-world Deployment</b>  
+
+</td>
+
+<td align="left" width="300">
+
+📈 <b>Long-term Mastery</b>  
+🌍 <b>Impact-first Mindset</b>  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<i>“I don’t chase trends. I build depth.”</i>
+
+</div>
 
 
 <div align="center">
   
-## 🧩 Core Snapshot
+### 🧩 Core Snapshot
 
 <table>
   <tr>
@@ -66,8 +82,6 @@
 </table>
 
 </div>
-
-![Philosophy Card](about-accent.svg)
 
 <div align="center">
 
