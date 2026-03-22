@@ -15,26 +15,45 @@
 <div align="center">
   
 ### 🧩 Core Snapshot
+<div align="center">
+
+## 🧩 Core Snapshot
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 Focus
-- 🤖 AI • Web • Systems  
-- 🧬 Deep Learning (Healthcare)  
-- ⚙️ Problem Solving + DSA  
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Exploring
-- LLMs & Generative AI  
-- Scalable Backend Systems  
-- Human-Computer Interfaces  
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48" />
+      <br />
+      <sub><b>Healthcare AI</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/cloud-computing.png" width="48" />
+      <br />
+      <sub><b>Scalable Systems</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/code-fork.png" width="48" />
+      <br />
+      <sub><b>DSA & Logic</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/sparkling-diamond.png" width="48" />
+      <br />
+      <sub><b>GenAI & LLMs</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/processor.png" width="48" />
+      <br />
+      <sub><b>Quantum & HCI</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/96/user-interface.png" width="48" />
+      <br />
+      <sub><b>Human-Centric UX</b></sub>
+    </td>
+  </tr>
 </table>
 
 </div>
