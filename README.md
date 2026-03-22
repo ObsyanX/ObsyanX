@@ -13,6 +13,7 @@
 
 
 <div align="center">
+  
 ### 🧩 Core Snapshot
 
 <table>
