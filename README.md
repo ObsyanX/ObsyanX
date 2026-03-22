@@ -170,6 +170,19 @@ engineering:
 learning:
   method: "Deep work + repetition + real-world application"
 ```
+
+```md id="thinkmermaid02"
+```mermaid
+flowchart LR
+    A["🧩 Break"] --> B["🧠 Model"]
+    B --> C["⚡ Optimize"]
+    C --> D["🚀 Scale"]
+
+    E["⚙️ Clarity > Complexity"] --> D
+    F["📚 Deep Work Learning"] --> D
+```
+
+
 ![Featured Projects](about-accent.svg)
 
 ## 🧪 Proof of Work
