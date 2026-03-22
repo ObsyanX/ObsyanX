@@ -116,7 +116,6 @@
 
 ![Featured Projects](about-accent.svg)
 
-![Techy Stuff](about-accent.svg)
 
 ## 📊 GitHub Activity Snapshot
 
