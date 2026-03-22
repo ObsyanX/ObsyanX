@@ -187,14 +187,44 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["🧠 Parkinson’s Disease Diagnosis<br/>(Deep Learning)"]
-    B["⚙️ Scalable Backend Systems<br/>(Node.js + APIs)"]
-    C["📊 Data-driven Problem Solving<br/>(DSA + GATE Prep)"]
-    D["💡 Focused on depth,<br/>not just breadth"]
 
+    %% ===== INPUT LAYER =====
+    subgraph L1["🧩 Core Domains"]
+        A["🧠 Parkinson’s Diagnosis<br/>(Deep Learning)"]
+        B["⚙️ Backend Systems<br/>(Node.js + APIs)"]
+        C["📊 Problem Solving<br/>(DSA + GATE)"]
+    end
+
+    %% ===== PROCESS LAYER =====
+    subgraph L2["⚙️ Engineering Process"]
+        D["🧠 Modeling & Training"]
+        E["🔗 System Design & APIs"]
+        F["📈 Optimization & Analysis"]
+    end
+
+    %% ===== OUTPUT =====
+    G["🚀 Real-World Impact Systems"]
+    H["💡 Depth > Breadth"]
+
+    %% ===== FLOW =====
     A --> D
-    B --> D
-    C --> D
+    B --> E
+    C --> F
+
+    D --> G
+    E --> G
+    F --> G
+
+    G --> H
+
+    %% ===== STYLING =====
+    classDef core fill:#0f172a,stroke:#00f5ff,stroke-width:2px,color:#e0f7ff;
+    classDef process fill:#1e293b,stroke:#ff6ec7,stroke-width:2px,color:#ffe4f3;
+    classDef output fill:#022c22,stroke:#00ff9c,stroke-width:2px,color:#d1ffe9;
+
+    class A,B,C core;
+    class D,E,F process;
+    class G,H output;
 ```
 ![Featured Projects](about-accent.svg)
 
