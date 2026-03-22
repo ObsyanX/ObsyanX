@@ -13,6 +13,17 @@
 
 
 <div align="center">
+### 🧬 What Sets Me Apart
+
+- 🧠 I combine **AI + Systems Thinking**, not just model building  
+- ⚙️ I focus on **real-world deployment**, not only experiments  
+- 📈 I optimize for **long-term mastery (GATE + fundamentals)**  
+- 🌍 I build with **impact-first mindset (Healthcare AI)**  
+
+> *I don’t chase trends. I build depth.*
+
+
+<div align="center">
   
 ## 🧩 Core Snapshot
 
