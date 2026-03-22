@@ -126,6 +126,22 @@
 
 ![Featured Projects](about-accent.svg)
 
+## 🧪 Proof of Work
+
+```mermaid
+flowchart TD
+    A["🧠 Parkinson’s Disease Diagnosis<br/>(Deep Learning)"]
+    B["⚙️ Scalable Backend Systems<br/>(Node.js + APIs)"]
+    C["📊 Data-driven Problem Solving<br/>(DSA + GATE Prep)"]
+    D["💡 Focused on depth,<br/>not just breadth"]
+
+    A --> D
+    B --> D
+    C --> D
+```
+
+![Featured Projects](about-accent.svg)
+
 <h2>💎 Featured Projects</h2>
 
 ![Featured Projects](featured-projects.svg)
