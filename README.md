@@ -61,6 +61,7 @@
 + Build systems, not just projects 🚀
 # Think in terms of impact 🌍
 - Learn deeply, execute consistently 🔥
+</div> <br> <!-- Gradient Accent Badge --> <img src="about-accent.svg" width="180"/> </div>
 ```
 
 ![Techy Stuff](about-accent.svg)
