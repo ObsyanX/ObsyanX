@@ -10,16 +10,53 @@
 
 ## 👨‍🚀 About Me
 
-I’m a **final-year Computer Science student** focused on building **intelligent, scalable, and human-centric systems** at the intersection of **AI, Web, and real-world impact**.
+<!-- ===================== ABOUT ME ===================== -->
 
-- **Domain**: AI • Web • Real-World Systems
-- **Primary Focus**: Deep Learning for Healthcare
-- **Currently Exploring**:
-  - Generative AI & Large Language Models  
-  - Quantum Machine Learning  
-  - Neural & Human-Computer Interfaces  
-> *I don’t just build software — I design systems that think, adapt, and matter.*
+<h2 align="center">👨‍🚀 About Me</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Building+Real-World+Impact+Systems;Deep+Learning+for+Healthcare;Consistency+%2B+Execution+%3D+Growth+🚀" />
+</p>
+
+---
+
+<div align="center">
+
+### 🧩 Core Snapshot
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Focus
+- 🤖 AI • Web • Systems  
+- 🧬 Deep Learning (Healthcare)  
+- ⚙️ Problem Solving + DSA  
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Exploring
+- LLMs & Generative AI  
+- Scalable Backend Systems  
+- Human-Computer Interfaces  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Philosophy Card
+
+```diff
++ Build systems, not just projects
+# Think in terms of impact
+- Learn deeply, execute consistently
 ![Tech Stack Accent](about-accent.svg)
 
 <h2>🧰 Techy Stuff</h2>
