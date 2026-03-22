@@ -7,7 +7,6 @@
 ![About Accent](about-accent.svg)
 
 <h2 align="center">👨‍🚀 About Me</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Building+Real-World+Impact+Systems;Deep+Learning+for+Healthcare;Consistency+%2B+Execution+%3D+Growth+🚀" />
 </p>
