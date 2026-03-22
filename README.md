@@ -154,6 +154,66 @@
 
 <h2>💎 Featured Projects</h2>
 
+<table width="1000px" style="border-collapse: collapse; border: none; border-spacing: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <tr>
+    <td width="500" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="background: linear-gradient(135deg, #FFFDF7 0%, #F5EEDC 100%); border: 1px solid #E8DFC8; border-radius: 22px; padding: 20px; min-height: 360px;">
+        <img src="GIF_LINK_1" alt="GD Buddy" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
+        <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">⚡ GD Buddy</div>
+        <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 15px;">AI-powered GD practice platform</div>
+        <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 15px;">
+          • AI-Based Performance Analysis<br>
+          • Real-time GD Sessions<br>
+          • Boost Confidence & Become Placement-Ready
+        </div>
+        <div style="font-size: 11px; font-weight: bold; color: #FFB800; text-transform: uppercase; letter-spacing: 0.5px;">Tech → React · Node · AI APIs</div>
+      </div>
+    </td>
+    <td width="500" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="background: linear-gradient(135deg, #FFFDF7 0%, #F5EEDC 100%); border: 1px solid #E8DFC8; border-radius: 22px; padding: 20px; min-height: 360px;">
+        <img src="GIF_LINK_2" alt="NeuroScan" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
+        <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">🧠 NeuroScan</div>
+        <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 15px;">Parkinson’s disease detection</div>
+        <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 15px;">
+          • CNN-LSTM hybrid model<br>
+          • Gait + voice biomarkers<br>
+          • Adaptive learning system
+        </div>
+        <div style="font-size: 11px; font-weight: bold; color: #FFB800; text-transform: uppercase; letter-spacing: 0.5px;">Tech → TensorFlow · Librosa · Streamlit</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="500" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="background: linear-gradient(135deg, #FFFDF7 0%, #F5EEDC 100%); border: 1px solid #E8DFC8; border-radius: 22px; padding: 20px; min-height: 360px;">
+        <img src="GIF_LINK_3" alt="Project 3" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
+        <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">🌐 Project 3</div>
+        <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 15px;">Your project subtitle</div>
+        <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 15px;">
+          • Feature one<br>
+          • Feature two<br>
+          • Feature three
+        </div>
+        <div style="font-size: 11px; font-weight: bold; color: #FFB800; text-transform: uppercase; letter-spacing: 0.5px;">Tech → Your stack</div>
+      </div>
+    </td>
+    <td width="500" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="background: linear-gradient(135deg, #FFFDF7 0%, #F5EEDC 100%); border: 1px solid #E8DFC8; border-radius: 22px; padding: 20px; min-height: 360px;">
+        <img src="GIF_LINK_4" alt="Project 4" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
+        <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">🚀 Project 4</div>
+        <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 15px;">Your project subtitle</div>
+        <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 15px;">
+          • Feature one<br>
+          • Feature two<br>
+          • Feature three
+        </div>
+        <div style="font-size: 11px; font-weight: bold; color: #FFB800; text-transform: uppercase; letter-spacing: 0.5px;">Tech → Your stack</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ![Featured Projects](featured-projects.svg)
 
 ![Featured Projects](about-accent.svg)
