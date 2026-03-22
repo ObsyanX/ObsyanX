@@ -8,8 +8,6 @@
 
 ![About Accent](about-accent.svg)
 
-## 👨‍🚀 About Me
-
 <!-- ===================== ABOUT ME ===================== -->
 
 <h2 align="center">👨‍🚀 About Me</h2>
@@ -58,6 +56,7 @@
 # Think in terms of impact
 - Learn deeply, execute consistently
 ![Tech Stack Accent](about-accent.svg)
+```
 
 <h2>🧰 Techy Stuff</h2>
 
