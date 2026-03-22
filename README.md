@@ -140,6 +140,7 @@ flowchart TD
     C --> D
 ```
 
+
 ![Featured Projects](about-accent.svg)
 
 <h2>💎 Featured Projects</h2>
