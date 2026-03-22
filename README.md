@@ -158,6 +158,19 @@
 
 ![Featured Projects](about-accent.svg)
 
+## 🧠 How I Think
+
+```yaml
+problem_solving:
+  approach: "Break → Model → Optimize → Scale"
+
+engineering:
+  priority: "Clarity > Complexity"
+
+learning:
+  method: "Deep work + repetition + real-world application"
+```
+![Featured Projects](about-accent.svg)
 
 ## 🧪 Proof of Work
 
