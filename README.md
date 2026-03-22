@@ -13,6 +13,7 @@
 
 
 <div align="center">
+  
 ### 🧬 What Sets Me Apart
 
 - 🧠 I combine **AI + Systems Thinking**, not just model building  
