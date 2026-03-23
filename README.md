@@ -160,10 +160,9 @@
   <img
  src="https://github.com/user-attachments/assets/49e1ed5e-ea46-4f68-9919-8aa28f77ad44" alt="GD Buddy" width="100%" style="border-radius: 12px; margin-bottom: 20px; display: block;">
     <br/>
-    <font size="5" color="#1F1F1F">⚡ <b>GD Buddy</b></font><br>
-        <font size="3" color="#5F5F5F">AI-powered GD practice platform</font><br><br>
 <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">⚡ GD Buddy</div>
         <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 5px;">AI-powered GD practice platform</div>
+    <br/>
         <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 5px;">
           • AI-Based Performance Analysis<br>
           • Real-time GD Sessions<br>
