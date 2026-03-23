@@ -162,12 +162,12 @@
     <br/>
 <div style="font-size: 20px; font-weight: 600; color: #1F1F1F; margin-bottom: 5px;">⚡ GD Buddy</div>
         <div style="font-size: 13px; color: #5F5F5F; margin-bottom: 5px;">AI-powered GD practice platform</div>
-    <br/>
-        <div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 5px;">
-          • AI-Based Performance Analysis<br>
-          • Real-time GD Sessions<br>
-          • Boost Confidence & Become Placement-Ready
-        </div>
+<br/>
+<div style="font-size: 12px; color: #2F2F2F; line-height: 1.8; margin-bottom: 5px;">
+• AI-Based Performance Analysis<br>
+• Real-time GD Sessions<br>
+• Boost Confidence & Become Placement-Ready
+</div>
         <font size="2" color="#FFB800"><b>TECH → REACT · NODE · AI APIS</b></font>
       </th>
     <td width="500" style="padding: 10px; border: none; vertical-align: top;">
