@@ -1,4 +1,4 @@
-![video-project-1_vinmANkV](https://github.com/user-attachments/assets/7225f8bb-6290-4e00-a08c-7dd006b4defc)![Banner](Banner.svg)
+![Banner](Banner.svg)
 <p align="center"><em>Building intelligent systems with clarity, ethics, and real-world impact.</em></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ObsyanX&label=Profile+Views&color=FFBF00&style=flat" />
