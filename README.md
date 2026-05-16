@@ -228,28 +228,23 @@
   <tr>
     <td width="50%" valign="top">
       <div style="border:1px solid rgba(127,127,127,0.25); border-radius:18px; padding:18px;">
-        <img src="https://github.com/user-attachments/assets/49e1ed5e-ea46-4f68-9919-8aa28f77ad44" width="100%" style="border-radius:14px;" />
+        <!-- <img src="https://github.com/user-attachments/assets/49e1ed5e-ea46-4f68-9919-8aa28f77ad44" width="100%" style="border-radius:14px;"> -->
+        <img src="https://github.com/user-attachments/assets/49e1ed5e-ea46-4f68-9919-8aa28f77ad44" alt="GD Buddy" width="100%" />
 
-        <br><br>
-
+<br><br>
         <div align="left">
           <img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-black?style=for-the-badge"/>
           <br><br>
-
           <h2 style="margin:0; padding:0;">GD Buddy</h2>
           <p style="margin-top:6px;">
             <i>Redefining Group Discussion Preparation Through AI Intelligence</i>
           </p>
         </div>
-
         <br>
-
         <p align="left">
           An immersive AI-driven ecosystem engineered to help students master communication, collaboration, and placement-ready speaking skills through intelligent real-time discussion simulations.
         </p>
-
         <br>
-
         <div align="left">
           <table>
             <tr><td valign="top">✦</td><td>Real-time AI Moderated GD Sessions</td></tr>
@@ -258,56 +253,42 @@
             <tr><td valign="top">✦</td><td>Placement-Oriented Performance Tracking</td></tr>
           </table>
         </div>
-
         <br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react"/>
           <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js"/>
           <img src="https://img.shields.io/badge/AI_APIs-111111?style=flat-square"/>
           <img src="https://img.shields.io/badge/WebSockets-111111?style=flat-square"/>
         </div>
-
         <br>
-
         <div align="left" style="margin-top:18px;">
           <a href="YOUR_GITHUB_REPO_LINK">
             <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-
           &nbsp;
-
           <a href="YOUR_LIVE_DEMO_LINK">
             <img src="https://img.shields.io/badge/Live%20Demo-C6A969?style=for-the-badge&logo=vercel&logoColor=111111"/>
           </a>
         </div>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <div style="border:1px solid rgba(127,127,127,0.25); border-radius:18px; padding:18px;">
         <img src="GIF_LINK_2" width="100%" style="border-radius:14px;" />
-
         <br><br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/RESEARCH%20PROJECT-C6A969?style=for-the-badge&labelColor=111111"/>
           <br><br>
-
           <h2 style="margin:0; padding:0;">NeuroScan</h2>
           <p style="margin-top:6px;">
             <i>Early Parkinson’s Detection Using Multimodal Deep Learning</i>
           </p>
         </div>
-
         <br>
-
         <p align="left">
           A healthcare-focused AI research platform designed to detect Parkinson’s disease through advanced gait analysis, vocal biomarkers, and deep learning intelligence.
         </p>
-
         <br>
-
         <div align="left">
           <table>
             <tr><td valign="top">✦</td><td>CNN-LSTM Hybrid Prediction Pipeline</td></tr>
@@ -316,25 +297,19 @@
             <tr><td valign="top">✦</td><td>Interactive Diagnostic Visualization</td></tr>
           </table>
         </div>
-
         <br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow"/>
           <img src="https://img.shields.io/badge/Librosa-111111?style=flat-square"/>
           <img src="https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit"/>
           <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
         </div>
-
         <br>
-
         <div align="left" style="margin-top:18px;">
           <a href="YOUR_GITHUB_REPO_LINK">
             <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-
           &nbsp;
-
           <a href="YOUR_LIVE_DEMO_LINK">
             <img src="https://img.shields.io/badge/Live%20Demo-C6A969?style=for-the-badge&logo=vercel&logoColor=111111"/>
           </a>
@@ -347,27 +322,20 @@
     <td width="50%" valign="top">
       <div style="border:1px solid rgba(127,127,127,0.25); border-radius:18px; padding:18px;">
         <img src="GIF_LINK_3" width="100%" style="border-radius:14px;" />
-
         <br><br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/EXPERIMENTAL%20BUILD-111111?style=for-the-badge"/>
           <br><br>
-
           <h2 style="margin:0; padding:0;">Project Name</h2>
           <p style="margin-top:6px;">
             <i>Future-Ready Digital Experience Architecture</i>
           </p>
         </div>
-
         <br>
-
         <p align="left">
           A scalable and immersive digital platform blending modern architecture, intelligent workflows, and refined frontend craftsmanship.
         </p>
-
         <br>
-
         <div align="left">
           <table>
             <tr><td valign="top">✦</td><td>Real-Time Interactive Experience</td></tr>
@@ -376,55 +344,41 @@
             <tr><td valign="top">✦</td><td>Secure Cloud-Integrated Workflow</td></tr>
           </table>
         </div>
-
         <br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js"/>
           <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript"/>
           <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss"/>
         </div>
-
         <br>
-
         <div align="left" style="margin-top:18px;">
           <a href="YOUR_GITHUB_REPO_LINK">
             <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-
           &nbsp;
-
           <a href="YOUR_LIVE_DEMO_LINK">
             <img src="https://img.shields.io/badge/Live%20Demo-C6A969?style=for-the-badge&logo=vercel&logoColor=111111"/>
           </a>
         </div>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <div style="border:1px solid rgba(127,127,127,0.25); border-radius:18px; padding:18px;">
         <img src="GIF_LINK_4" width="100%" style="border-radius:14px;" />
-
         <br><br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/INNOVATION%20LAB-C6A969?style=for-the-badge&labelColor=111111"/>
           <br><br>
-
           <h2 style="margin:0; padding:0;">Project Name</h2>
           <p style="margin-top:6px;">
             <i>Engineering Intelligent Systems Beyond Conventional Interfaces</i>
           </p>
         </div>
-
         <br>
-
         <p align="left">
           A premium product ecosystem crafted to combine intelligent automation, modern engineering, and aesthetic digital experiences.
         </p>
-
         <br>
-
         <div align="left">
           <table>
             <tr><td valign="top">✦</td><td>AI-Enhanced Intelligent Workflow</td></tr>
@@ -433,24 +387,18 @@
             <tr><td valign="top">✦</td><td>Cloud-Optimized Architecture</td></tr>
           </table>
         </div>
-
         <br>
-
         <div align="left">
           <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase"/>
           <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb"/>
           <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express"/>
         </div>
-
         <br>
-
         <div align="left" style="margin-top:18px;">
           <a href="YOUR_GITHUB_REPO_LINK">
             <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-
           &nbsp;
-
           <a href="YOUR_LIVE_DEMO_LINK">
             <img src="https://img.shields.io/badge/Live%20Demo-C6A969?style=for-the-badge&logo=vercel&logoColor=111111"/>
           </a>
