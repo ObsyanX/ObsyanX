@@ -408,7 +408,6 @@
   </tr>
 </table>
 
-![Featured Projects](featured-projects.svg)
 
 ![Featured Projects](about-accent.svg)
 
